@@ -1,0 +1,1 @@
+![Image alt text](welcome.svg)
